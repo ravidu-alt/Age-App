@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        int age = 100;
-        if (age == 18) {
+        int age = 50;
+        if (age == 20) {
            System.out.println("You can drive a car."); 
         }
         if (age == 10|| age == 20|| age == 30|| age == 40|| age == 50|| age == 60|| age == 70|| age == 80 || age == 90|| age == 100|| age == 110|| age == 120) {
