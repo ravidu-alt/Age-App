@@ -11,6 +11,8 @@ public class App {
             System.out.println("Congratulations.");
             System.out.println("Congratulations.");
             System.out.println("Congratulations.");
+            System.out.println("Congratulations.");
+            System.out.println("Congratulations.");
          }
          if (age >= 40 && age <= 50) {
             System.out.println("happy-mid-life");
